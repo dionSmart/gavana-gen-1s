@@ -5,6 +5,7 @@ GAVANA Gen 1s is a smart business management tool built for small to medium-size
 
 🔽 Download Installer
 👉 Click here to download GAVANA Gen 1s Installer.exe
+<img width="1280" height="772" alt="1" src="https://github.com/user-attachments/assets/f4923d7e-ced2-433a-8717-d40d05d3f94e" />
 
 🎯 Purpose of the Software
 GAVANA Gen 1s helps entrepreneurs:
@@ -13,7 +14,8 @@ Manage inventory and product sales
 
 Track credits and debts
 
-Monitor profits, losses, and capital in real time
+Monitor profits, losses, and capital in real time<img width="1278" height="768" alt="6" src="https://github.com/user-attachments/assets/845aba12-3a08-43e6-8a91-b46f52562026" />
+
 
 Issue professional receipts and invoices
 
@@ -27,7 +29,8 @@ Ideal for solo business owners
 All-in-one dashboard for smooth shop operations
 
 🌟 Key Features
-🛒 Product Selling Interface
+🛒 Product Selling Interface<img width="1277" height="769" alt="5" src="https://github.com/user-attachments/assets/356816f8-a05e-4ae2-9dff-41b1e1f8b678" />
+
 Sell directly or on credit (partial payments supported)
 
 Prevents selling below cost price
@@ -45,6 +48,7 @@ Auto-calculations to prevent errors
 Track what you owe and what others owe you
 
 Includes names and contact info
+<img width="1280" height="768" alt="7" src="https://github.com/user-attachments/assets/38b623e2-cd26-4ef5-ae67-cfa674dc4479" />
 
 📊 Business Reports
 Real-time view of capital, profit/loss, expenses
