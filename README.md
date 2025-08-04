@@ -5,17 +5,16 @@ GAVANA Gen 1s is a smart business management tool built for small to medium-size
 
 🔽 Download Installer
 👉 Click here to download GAVANA Gen 1s Installer.exe
-<img width="1280" height="772" alt="1" src="https://github.com/user-attachments/assets/f4923d7e-ced2-433a-8717-d40d05d3f94e" />
 
 🎯 Purpose of the Software
-GAVANA Gen 1s helps entrepreneurs:
+GAVANA Gen 1s helps entrepreneurs:<img width="1280" height="772" alt="1" src="https://github.com/user-attachments/assets/e815c5b2-94ee-4ff0-b312-b22fa5d43a43" />
+
 
 Manage inventory and product sales
 
 Track credits and debts
 
-Monitor profits, losses, and capital in real time<img width="1278" height="768" alt="6" src="https://github.com/user-attachments/assets/845aba12-3a08-43e6-8a91-b46f52562026" />
-
+Monitor profits, losses, and capital in real time
 
 Issue professional receipts and invoices
 
@@ -25,12 +24,12 @@ Gain full transparency over business performance
 Built for Windows desktop
 
 Ideal for solo business owners
+<img width="1278" height="768" alt="6" src="https://github.com/user-attachments/assets/9fca345e-52e4-4282-b7cc-4daaaa044503" />
 
 All-in-one dashboard for smooth shop operations
 
 🌟 Key Features
-🛒 Product Selling Interface<img width="1277" height="769" alt="5" src="https://github.com/user-attachments/assets/356816f8-a05e-4ae2-9dff-41b1e1f8b678" />
-
+🛒 Product Selling Interface
 Sell directly or on credit (partial payments supported)
 
 Prevents selling below cost price
@@ -48,10 +47,10 @@ Auto-calculations to prevent errors
 Track what you owe and what others owe you
 
 Includes names and contact info
-<img width="1280" height="768" alt="7" src="https://github.com/user-attachments/assets/38b623e2-cd26-4ef5-ae67-cfa674dc4479" />
 
 📊 Business Reports
-Real-time view of capital, profit/loss, expenses
+Real-time view of capital, profit/loss, expenses<img width="1277" height="769" alt="5" src="https://github.com/user-attachments/assets/486a5a05-a88b-47f7-8cbf-6932e15c2872" />
+
 
 Receipt vs non-receipt sales
 
@@ -99,7 +98,8 @@ Adjust prices with reason (e.g. market change)
 Backup and restore your data easily
 
 🖨️ Print Options
-Print invoices, zero-quantity products, used receipts, etc.
+Print invoices, zero-quantity products, used receipts, etc.<img width="1280" height="767" alt="7" src="https://github.com/user-attachments/assets/485ba65e-2fe9-4dfd-8732-b7d7468e0299" />
+
 
 🏱 Free Trial & Pricing
 7-day free trial on first install
