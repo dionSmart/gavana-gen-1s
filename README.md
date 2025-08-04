@@ -1,2 +1,2 @@
-# gavana-gen-1s
-Installer of Business management tool for small entrepreneurs 'Gavana'
+# gavana-gen-1 single user
+Update README with full description
